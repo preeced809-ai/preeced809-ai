@@ -1,4 +1,4 @@
-## Hi there 👋
+Name: Qihua Shen | Email: mamasqh@mail.scut.edu.cn | Affiliation: SCUT
 
 <!--
 **preeced809-ai/preeced809-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
